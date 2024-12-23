@@ -1,5 +1,9 @@
 <?
 
+$story_index = [
+	"what-is-al-nakba",
+	];
+
 $story_array = [
 
 	// article׳
