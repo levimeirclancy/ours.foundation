@@ -2,7 +2,7 @@
 
 $story_array = [
 
-  "what-is-nakba" => [
+	"what-is-nakba" => [
 
     "quick-answer"  => [
       "heading"  => "Quick answer",
