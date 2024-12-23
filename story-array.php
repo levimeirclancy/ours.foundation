@@ -2,15 +2,19 @@
 
 $story_array = [
 
-	"what-is-nakba" => [
+	// article׳
+	"what-is-al-nakba" => [
 
-    "quick-answer"  => [
-      "heading"  => "Quick answer",
-      "body"    => "...",
-      ],
+		"title"	=> "What is Al-Nakba?",
 
-    ],
+		// paragraphs
+		[
+		"heading"  => "Quick answer",
+		"paragraph"    => "...",
+		],
+	
+		],
 
-  ];
+	];
 
 ?>
