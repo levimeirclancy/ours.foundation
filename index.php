@@ -1,7 +1,5 @@
 <?
 
-include_once("story-array.php");
-
-echo "—";
+echo "https://ours.foundation is a repository of knowledge by Levi Meir Clancy.";
 
 ?>
